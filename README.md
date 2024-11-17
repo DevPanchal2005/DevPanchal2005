@@ -48,18 +48,11 @@ I am an engineering student at **LJ University**, currently pursuing a **Bachelo
 
 ## 🔗 Connect & Collaborate
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/dev-panchal-connect/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40"/>
-  </a>
-  <a href="https://github.com/DevsAlternateGit" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" height="40"/>
-  </a>
-  <a href="https://leetcode.com/u/DevPanchal2005/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" alt="LeetCode" height="40"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-panchal-connect/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevsAlternateGit) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/your-handle) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/DevPanchal2005/)
+
+
 
 ## ✨ Let's Create Something Amazing Together!
 
 Feel free to explore my repositories, contribute, or reach out for potential collaborations. I’m always open to connecting with like-minded individuals and contributing to groundbreaking projects!
+

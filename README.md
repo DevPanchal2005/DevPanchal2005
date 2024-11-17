@@ -55,6 +55,9 @@ I am an engineering student at **LJ University**, currently pursuing a **Bachelo
   <a href="https://github.com/DevsAlternateGit" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" height="40"/>
   </a>
+  <a href="https://leetcode.com/u/DevPanchal2005/" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" alt="LeetCode" height="40"/>
+  </a>
 </p>
 
 ## ✨ Let's Create Something Amazing Together!

@@ -60,5 +60,3 @@ I am an engineering student at **LJ University**, currently pursuing a **Bachelo
 ## ✨ Let's Create Something Amazing Together!
 
 Feel free to explore my repositories, contribute, or reach out for potential collaborations. I’m always open to connecting with like-minded individuals and contributing to groundbreaking projects!
-
----

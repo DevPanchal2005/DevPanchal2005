@@ -49,7 +49,7 @@ I am an engineering student at **LJ University**, currently pursuing a **Bachelo
 ## 🔗 Connect & Collaborate
 
 <p align="center">
-  <a href="www.linkedin.com/in/dev-panchal-connect" target="_blank">
+  <a href="https://www.linkedin.com/in/dev-panchal-connect/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40"/>
   </a>
   <a href="https://github.com/DevsAlternateGit" target="_blank">

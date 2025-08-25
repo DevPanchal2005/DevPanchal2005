@@ -6,6 +6,8 @@
 
 I am an engineering student at **LJ University**, currently pursuing a **Bachelor of Engineering in AI and Data Science** in the Department of Computer Science. With a strong passion for artificial intelligence and machine learning, I am dedicated to expanding my knowledge, building innovative projects, and contributing to impactful solutions.
 
+![ISO Calendar](./metrics-isocalendar.svg)
+
 ## 🛠️ Technical Skills & Expertise
 
 ### **Programming Languages**
